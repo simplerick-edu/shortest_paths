@@ -1,2 +1,2 @@
 # shortest_paths
-Implementations of some shortest paths algorithms. Just my solutions of assignments.
+Implementations of some shortest paths algorithms (my solutions of assignments).
